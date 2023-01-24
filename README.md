@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankur Kumar Rai.
-- 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning MERN Stack and Data Structures.
+- 👀 I’m interested in Full Stack Development(MERN).
+- 🌱 I’m a Software Engineer.
 - 💞️ I’m looking to collaborate on Full Stack Projects.
 - 📫 How to reach me ankurrai800@gmail.com
 
